@@ -8,7 +8,7 @@
 void main()
 {
     /*
-        LOOPS :
+            For LOOPS :
     ------------------------------------
     Step 1 : Initialization of the Loop
     Step 2 : Condition
@@ -19,11 +19,12 @@ void main()
 
     */
     printf("For Loops :\n----------\n");
-    for (int i = 1; i <= 5; i++)
-    {
+    for (int i = 1; i <= 5; i++) // Steps 1,2,5 here
+    { // Step 3 | body start of loop
         printf("Hi!\n");
+        // Step 4 |Stepbody end of for loop
     }
     printf("Prints the above sentence 5 times...");
 }
 
-// Code by Abel Roy
+// Code by Abel Roy //
