@@ -1,2 +1,11 @@
 # Basic-C
-Random C lang projects based on the fundamental basics of c programming language.
+---
+### Summary
+Code Definitions and project examples of basic C programming based on the fundamental basics
+---
+### Projects
+- Christmas Tree
+- ASCII alphabetical representation
+---
+### License
+MIT License
