@@ -1,7 +1,5 @@
 # Basic-C
----
-### Summary
-Code Definitions and project examples of basic C programming based on the fundamental basics
+    Code Definitions and project examples of basic C programming based on the fundamental basics
 ---
 ### Projects
 - Christmas Tree
