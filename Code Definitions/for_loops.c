@@ -19,7 +19,7 @@ void main()
 
     */
     printf("For Loops :\n----------\n");
-    for (int i = 1; i <= 5; i++) // Steps 1,2,5 here
+    for (int i = 1; i <= 5; i++) // Steps 1,2,5 here | The Loop continues till the condition is satisfied
     { // Step 3 | body start of loop
         printf("Hi!\n");
         // Step 4 |Stepbody end of for loop
