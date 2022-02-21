@@ -1,10 +1,7 @@
-// For Loops
+// For Loops [With Helpful comments]
 // ----------------------------------------------------------------
 // Basic loops based on the 5 step process of initalization, condition and progress!
-
 #include<stdio.h>
-#include<conio.h>
-
 void main()
 {
     /*
@@ -26,5 +23,5 @@ void main()
     }
     printf("Prints the above sentence 5 times...");
 }
-
+// ----------------------------------------------------------------
 // Code by Abel Roy //
