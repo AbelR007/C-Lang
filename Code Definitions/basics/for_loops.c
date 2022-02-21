@@ -1,6 +1,7 @@
 // For Loops [With Helpful comments]
-// ----------------------------------------------------------------
+// ---------------------------------------------------------------------------------
 // Basic loops based on the 5 step process of initalization, condition and progress!
+// .................................................................................
 #include<stdio.h>
 void main()
 {
