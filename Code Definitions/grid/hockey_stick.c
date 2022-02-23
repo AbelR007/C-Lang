@@ -1,7 +1,6 @@
 // Hockey Stick using "Grid system"
 // ----------------------------------------------------------------
 #include<stdio.h>
-
 void main()
 {
     for (int r = 1; r <= 20; r++)
