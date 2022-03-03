@@ -14,10 +14,8 @@ void main()
     // Checks if the number is prime or not
     for (int all = 2; all < num; all++)
     {
-        // printf("%d|%d|%d\n",num,i, num%i); // Use this code to check for all numbers
-        if ((num % all) == 0)
+        if ((num % all) == 0)// Use this code to check for all numbers
         {
-            // printf(">%d-%d\n",num,i);
             prime = 0;
         }
     }
@@ -28,8 +26,6 @@ void main()
     if (prime == 0)
         printf("%d is a Composite Number",num);
 
-    // Shows the cursor position
-    getch();
 }
 // ----------------------------------------------------------------
 // Code by Abel Roy //
