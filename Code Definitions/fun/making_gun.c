@@ -28,8 +28,8 @@ void gun(int x,int y, int flen)
     }
     for (int fire = 1; fire <= flen; fire++)
     {
-        for(int de=1; de <= 10000; de++)
-            for (int d = 1; d <= 1000; d++);
+        for(int de=1; de <= 10000; de++);
+            for (int d = 1; d <= 1000; d++)
         gotoxy(x+2+fire,y+6);
         for (int sp=1; sp <=flen; sp++)
         {
@@ -42,7 +42,7 @@ void gun(int x,int y, int flen)
 // Main function
 void main()
 {
-    gun(1,1, 20);
+    gun(1,1, 40);
     getchar();
 }
 // ======================================================================
