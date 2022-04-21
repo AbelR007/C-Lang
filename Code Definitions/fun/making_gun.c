@@ -35,7 +35,7 @@ void gun(int x,int y, int flen)
         {
             printf(" ");
         }
-        printf("D");
+        printf("Boom.");
     }
 }
 

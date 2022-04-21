@@ -7,10 +7,10 @@ void main()
     {
         for (int c = 1; c < 20; c++)
         {
-            if ((c==15 && r>15)||(r==c && r<16))
-                printf("%2d",r);
-            else
-                printf("  ");
+            printf("%2d",r);
+            // if ((c==15 && r>15)||(r==c && r<16))
+            // else
+            //     printf("  ");
         }
         printf("\n");
     }
