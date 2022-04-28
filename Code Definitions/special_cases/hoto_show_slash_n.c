@@ -1,6 +1,6 @@
 // How to \n in Output screen
 //----------------------------------------------------------------
-// Doubt by my Classmate [Steavo B.]
+// Doubt by my Classmate
 
 #include<stdio.h>
 
