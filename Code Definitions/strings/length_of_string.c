@@ -14,8 +14,11 @@ void main()
     // Loop to get the length
     for (l = 0; str[l] != '\0'; ++l);
 
+    // Another way of calculating the length
+    // l = strlen(str);
+
     // Printing the length
-    printf("\nLength : %d",l);
+    printf("\nLength of %s : %d",str,l);
 }
 // =================================================================
 // Code by Abel Roy //
