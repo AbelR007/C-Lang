@@ -9,6 +9,7 @@ void main()
     // char str[7] = "hellohi";
     int palindrome = 1;
     int p;
+
     int len;
     for (len = 0; str[len] != '\0'; ++len);
     // printf("%d",len);

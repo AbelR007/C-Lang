@@ -9,7 +9,7 @@ void main() // Main function
     printf("Code for Upper Triangle.\n\n");
 
     // Two nested loops for drawing triangle by row and column pattern
-    for (int c = 10; c >= 1; c--)
+    for (int c = 5; c >= 1; c--)
     {
         for (int r = 1; r <= c; r++)
         {
