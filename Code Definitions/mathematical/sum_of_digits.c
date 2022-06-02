@@ -6,17 +6,18 @@
 // Main function
 void main(){
     // Initialize the variables
-    int num, sum = 0, i;
-    int copy = num;
+    int num, sum = 0, i,mod;
 
     // Taking input
     printf("Enter Number to calculate sum : ");
     scanf("%d", &num);
+    int copy = num;
 
     // Loop to calculate sum of the digits
-    for (i=1 ; i <= 3; i++){
-        sum = sum + num%10;
-        num = num/10;
+    for ( ; num > 0; num = num/10)
+    {
+        mod = num % 10;
+        sum = sum + mod;
     }
 
     // Printing the sum
